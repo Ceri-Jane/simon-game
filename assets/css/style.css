@@ -26,31 +26,41 @@ h2 {
     cursor: pointer;
 }
 .circle1 {
-    height: 500px;
-    width: 500px;
+    height: 310px;
+    width: 310px;
     background-color: #009FE3;
+    top: 100px;
+    bottom: 100px;
+    right: 100px;
+    left: 100px;
 }
 
 .circle2 {
-    height: 400px;
-    width: 400px;
+    height: 260px;
+    width: 260px;
     background-color: #445261;
-    top: 50px;
-    left: 50px;
+    top: 125px;
+    bottom: 125px;
+    left: 125px;
+    right: 125px;
 }
 .circle3 {
-    height: 300px;
-    width: 300px;
+    height: 210px;
+    width: 210px;
     background-color: #EFB920;
-    top: 100px;
-    left: 100px;
+    top: 150px;
+    bottom: 150px;
+    left: 150px;
+    right: 150px;
 }
 .circle4 {
-    height: 200px;
-    width: 200px;
+    height: 160px;
+    width: 160px;
     background-color: #23BBBB;
-    top: 150px;
-    left: 150px;
+    top: 175px;
+    bottom: 175px;
+    left: 175px;
+    right: 175px;
 }
 
 .scorebox {
@@ -60,8 +70,8 @@ h2 {
     background-color: #E6ECF0;
     height: 80px;
     width: 80px;
-    top: 210px;
-    left: 210px;
+    top: 215px;
+    left: 215px;
     text-align: center;
     color: #445261;
     font-size: 3em;
@@ -83,5 +93,5 @@ h2 {
 }
 
 .light {
-    opacity: 0.4;
+    opacity: 0.2;
 }
